@@ -1,0 +1,12 @@
+api_password:
+api_url:
+api_username:
+backup_directory:
+input_csv:
+ead_3_transformation:
+ead_3_schema:
+manifest_path:
+transformation_errors:
+validation_errors:
+saxon_path:
+ead_log_path:
